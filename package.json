@@ -1,0 +1,29 @@
+{
+        "name": "your-project",
+        "version": "1.0.0",
+        "description": "",
+        "main": "edgeusercheck.js",
+        "type": "module",
+        "scripts": {
+                "test": "echo \"Error: no test specified\" && exit 1"
+        },
+        "author": "",
+        "license": "ISC",
+        "homepage": "https://github.com/username/my-project#readme",
+        "dependencies": {
+                "edge-core-js": "^1.3.0",
+                "esm": "^3.2.25",
+                "express": "^4.17.1",
+                "git": "^0.1.5",
+                "hapi": "^18.1.0",
+                "node-fetch": "^2.6.6",
+                "tsc": "^2.0.4",
+                "typescript": "^5.1.3"
+        },
+        "devDependencies": {
+                "@types/node-fetch": "^2.6.4",
+                "edge-currency-monero": "^1.0.0",
+                "edge-exchange-plugins": "^0.19.5",
+                "nodemon": "^1.14.9"
+        }
+}
